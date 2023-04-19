@@ -1,0 +1,4 @@
+# команда запуска паука
+scrapy crawl test
+# или
+scrapy crawl test -o data.json
